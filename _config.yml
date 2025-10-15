@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Changmin
 middle_name:
 last_name: Lee
+email: cm.lee@yonsei.ac.kr
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal webpage of Changmin Lee.
@@ -260,10 +261,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Lee]
+  first_name: [Changmin, C.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
