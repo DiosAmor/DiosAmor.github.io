@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -398,62 +398,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-honored-to-receive-the-best-demo-award-at-the-ieee-infocom-2015",
+          title: 'Honored to receive the Best Demo Award at the IEEE INFOCOM 2015.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-visited-boğaziçi-university-to-provide-technical-support-for-a-molecular-communication-testbed-which-led-to-a-collaborative-paper",
+          title: 'Visited Boğaziçi University to provide technical support for a molecular communication testbed, which...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-honored-to-host-the-molecular-mimo-competition-at-the-ieee-ctw-2019",
+          title: 'Honored to host the Molecular MIMO Competition at the IEEE CTW 2019.',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-bronze-medal-at-the-samsung-26th-humantech-paper-contest",
+          title: 'Honored to receive the Bronze Medal at the Samsung 26th Humantech Paper Contest....',
+          description: "",
+          section: "News",},{id: "news-honored-to-receive-the-best-demo-award-at-the-ieee-wcnc-2020",
+          title: 'Honored to receive the Best Demo Award at the IEEE WCNC 2020.',
+          description: "",
+          section: "News",},{id: "news-invited-to-serve-on-the-technical-program-committee-for-the-ieee-icc-2026-mbmc-molecular-biological-and-multi-scale-communications-track",
+          title: 'Invited to serve on the Technical Program Committee for the IEEE ICC 2026...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
