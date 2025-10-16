@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Honored to receive the <b>Bronze Medal</b> at the <i>Samsung 26th Humantech Paper Contest</i>.
-

@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Honored to host the <b>Molecular MIMO Competition</b> at the <i>IEEE CTW 2019</i>.
-

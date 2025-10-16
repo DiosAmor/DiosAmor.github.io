@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Honored to receive the <b>Best Demo Award</b> at the <i>IEEE INFOCOM 2015</i>.
-
