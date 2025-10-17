@@ -2,7 +2,7 @@
 layout: page
 title: A Prototype for In-Vessel Molecular Communication
 description: 2020 - 2022
-img: assets/img/mc/In-vessel_testbed.png
+img: assets/img/mc/in_vessel_testbed.png
 importance: 2
 category: molecular communication
 related_publications: true
@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/In-vessel_testbed.png" title="in-vessel mc testbed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/in_vessel_testbed.png" title="in-vessel mc testbed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +40,7 @@ A pump, which acts as the transmitter, emits the acid or base and also creates t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/WCNC_demo_scene.jpg" title="WCNC demo scene" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/wcnc_demo_scene.jpg" title="WCNC demo scene" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -49,7 +49,7 @@ A pump, which acts as the transmitter, emits the acid or base and also creates t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/WCNC_best_demo_award.jpg" title="WCNC best demo award" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/wcnc_best_demo_award.jpg" title="WCNC best demo award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: Collaboration & Exchange with Global Research Teams
 description: 2015 - 2022
-img: assets/img/mc/Collaboration_team.jpg
+img: assets/img/mc/collaboration_team.jpg
 importance: 4
 category: molecular communication
 related_publications: true
@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Collaboration_team.jpg" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/collaboration_team.jpg" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -33,7 +33,7 @@ Collaboration and exchange with the research team at <i>Boğaziçi University</i
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Turkey_video_conference.png" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/turkey_video_conference.png" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ Collaboration and exchange with the research team at <i>Boğaziçi University</i
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Turkey_testbed.jpg" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/turkey_testbed.jpg" title="Collaboration team" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

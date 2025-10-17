@@ -2,7 +2,7 @@
 layout: page
 title: A Prototype for Free-Space Molecular Communication
 description: 2014 - 2020
-img: assets/img/mc/Freespace_testbed.png
+img: assets/img/mc/freespace_testbed.png
 importance: 1
 category: molecular communication
 related_publications: true
@@ -10,7 +10,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Freespace_testbed.png" title="freespace mc testbed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/freespace_testbed.png" title="freespace mc testbed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ A testbed was developed that uses alcohol as an information-carrying medium. A n
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Infocom_demo_scene.jpg" title="Infocom demo scene" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/infocom_demo_scene.jpg" title="Infocom demo scene" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,7 +48,7 @@ A testbed was developed that uses alcohol as an information-carrying medium. A n
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Infocom_best_demo_award.jpg" title="Infocom best demo award" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/infocom_best_demo_award.jpg" title="Infocom best demo award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -99,7 +99,7 @@ This paper discusses channel coding techniques that can be applied to molecular 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/mc/Humantech_award.jpg" title="Humantech award" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mc/humantech_award.jpg" title="Humantech award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
