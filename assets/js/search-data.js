@@ -58,6 +58,21 @@ ninja.data = [{
           description: "2014 - 2020",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-a-prototype-for-in-vessel-molecular-communication",
+          title: 'A Prototype for In-Vessel Molecular Communication',
+          description: "2020 - 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-host-molecular-mimo-competition",
+          title: 'Host Molecular MIMO Competition',
+          description: "2019",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-collaboration-amp-exchange-with-global-research-teams",
+          title: 'Collaboration &amp;amp; Exchange with Global Research Teams',
+          description: "2015 - 2022",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
