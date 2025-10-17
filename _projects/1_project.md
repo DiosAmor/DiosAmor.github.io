@@ -28,11 +28,10 @@ Develop MIMO testbed to enhance transmission speed of molecular communication.
 
 A testbed was developed that uses alcohol as an information-carrying medium. A nozzle, which acts as the transmitter, uses compressed air to spray alcohol, and an alcohol sensor, which serves as the receiver, transmits the change in ambient alcohol concentration to a computer via an <i>Arduino</i>. The testbed was designed with two nozzles to improve the communication speed.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/mNjV_GEWRF8?si=LHk5rF3P_4VvECXN" title="Demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
-   </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 0 auto; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/mNjV_GEWRF8?si=LHk5rF3P_4VvECXN" title="Demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
+
 <div class="caption">
     Demo video of molecular MIMO communication testbed
 </div>

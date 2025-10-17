@@ -29,10 +29,8 @@ A testbed was developed to demonstrate the feasibility of molecular communicatio
 
 A pump, which acts as the transmitter, emits the acid or base and also creates the fluid flow within the tube. To detect the pH change, a pH sensor is used as the receiver, and a connected <i>Arduino</i> transmits the signal to a computer.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_jfCpNyV1Uc?si=vX0lOpVHSbZIn8s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
-   </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 0 auto; max-width: 100%;">
+    <iframe src="https://www.youtube.com/embed/_jfCpNyV1Uc?si=vX0lOpVHSbZIn8s8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 <div class="caption">
     Demo video of in-vessel molecular MIMO communication testbed
